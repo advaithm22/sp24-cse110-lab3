@@ -1,1 +1,20 @@
 /* Here is a comment */
+
+/* color requirements */
+header{
+  background-color: color-mix(in srgb, #baf 20%, grey);
+  color: rgba(11, 100, 200, 0.3);
+}
+body{
+  background-color: #ffffff;
+  color:rgb(33,21,123);
+}
+
+main{
+  background-color: hsl(0, 10%, 60%);
+  color:black;
+}
+
+footer{
+  background-color: color(srgb 0.2 0.3 0.2 / 0.5);
+}
