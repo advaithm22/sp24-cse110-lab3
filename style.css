@@ -48,3 +48,12 @@ footer{
   text-decoration: underline;
   text-align: left;
 }
+
+/* pseudo-class */
+button:hover{
+  color: red;
+}
+
+button:active{
+  background-color: blue;
+}
