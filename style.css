@@ -15,6 +15,8 @@ main{
   color:black;
 }
 
+
+/* css variables and fallbacks */
 footer{
-  background-color: color(srgb 0.2 0.3 0.2 / 0.5);
+  background-color: var(--main-color, #c35757);
 }
