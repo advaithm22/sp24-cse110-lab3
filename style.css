@@ -57,3 +57,8 @@ button:hover{
 button:active{
   background-color: blue;
 }
+
+/* third party font */
+section{
+  font-family: 'Platypi', cursive;
+}
