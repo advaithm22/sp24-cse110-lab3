@@ -20,3 +20,24 @@ main{
 footer{
   background-color: var(--main-color, #c35757);
 }
+
+/* examples of unit*/ 
+
+footer{
+  padding: 10px;
+}
+header{
+  padding: 2em;
+}
+h1{
+  font-size: 3vw;
+}
+section{
+  margin-bottom: 1rem;
+}
+h2{
+  padding: 1in;
+}
+h3{
+  padding: 1cm;
+}
