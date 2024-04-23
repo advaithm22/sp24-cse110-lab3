@@ -41,3 +41,10 @@ h2{
 h3{
   padding: 1cm;
 }
+
+/* TEXT Requirements*/
+footer{
+  color: black;
+  text-decoration: underline;
+  text-align: left;
+}
