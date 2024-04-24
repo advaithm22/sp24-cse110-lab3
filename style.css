@@ -73,3 +73,12 @@ section{
 .audiobox{
   position:static;
 }
+
+/* display */
+.inlinedisplay{
+  display: inline;
+}
+
+.positioned{
+  display: block;
+}
