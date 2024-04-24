@@ -71,7 +71,7 @@ section{
 }
 
 .audiobox{
-  position:static;
+  position:absolute;
 }
 
 /* display */
@@ -81,4 +81,15 @@ section{
 
 .positioned{
   display: block;
+}
+
+/* size features for an element */
+.positioned{
+  height:100px;
+  max-width:200px
+}
+
+.img-pos{
+  width:400px;
+  max-height:500px;
 }
