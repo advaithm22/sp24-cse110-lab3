@@ -62,3 +62,14 @@ button:active{
 section{
   font-family: 'Platypi', cursive;
 }
+
+/* position */
+.positioned{
+  position: relative;
+  left: 30px;
+  right: 10px;
+}
+
+.audiobox{
+  position:static;
+}
